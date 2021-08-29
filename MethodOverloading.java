@@ -2,6 +2,8 @@ public class MethodOverloading
 {
     public static void main(String[] args) {
     
+        //overloading method means =>  same method name with different parameter.
+        
         int firstnum=10;
         int secondnum=12;
         int thirdnum=16;
